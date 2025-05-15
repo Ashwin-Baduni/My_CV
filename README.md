@@ -7,8 +7,8 @@ I'm **Ashwin Baduni** - a Computational Mathematics grad passionate about AI �
 
 - 📞 +91-85279-16359  
 - 📧 baduniashwin@gmail.com  
-- [🔗 LinkedIn](https://www.linkedin.com/)  
-- [💻 GitHub](https://github.com/)
+- [🔗 LinkedIn](https://www.linkedin.com/in/ashwinbaduni/)  
+- [💻 GitHub](https://github.com/Ashwin-Baduni)
 
 
 
@@ -65,11 +65,11 @@ _B.Tech in Computational Mathematics_
 ## 📜 Certifications
 
 - 🛡️ **Cybersecurity Professional Certificate**  
-  [Credential ID: DXRLYIKE4D2T](https://www.credential.net/)
+  [Credential ID: DXRLYIKE4D2T](https://www.coursera.org/account/accomplishments/professional-cert/certificate/DXRLYIKE4D2T)
 - 📊 **Data Analyst Professional Certificate**  
-  [Credential ID: 9WRKVKV2DUIH](https://www.credential.net/)
+  [Credential ID: 9WRKVKV2DUIH](https://www.coursera.org/account/accomplishments/professional-cert/certificate/9WRKVKV2DUIH)
 - 🏦 **Enterprise Risk Management - Level 1**  
-  [Credential ID: IRMIN/L1CIM/2023/00000000000675](https://www.credential.net/)
+  [Credential ID: IRMIN/L1CIM/2023/00000000000675](https://www.theirmindia.org/)
 
 
 

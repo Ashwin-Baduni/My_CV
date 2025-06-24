@@ -37,19 +37,19 @@ _B.Tech in Computational Mathematics_
 
 ## 🛠️ Projects
 
-- **[Building a Transformer from Scratch](https://github.com/Ashwin-Baduni/transformer-from-scratch)**  
+- **[Building a Transformer from Scratch](https://github.com/Ashwin-Baduni/adaptive-transformer-trainer-automated)**  
   *June 2025*  
   Implemented a transformer model from scratch in PyTorch, faithfully reproducing the "Attention Is All You Need" architecture with custom multi-head self-attention, positional encoding, and layer normalization. Developed an automated pipeline for training, hyperparameter tuning, checkpointing, and real-time experiment tracking on large NLP datasets.
 
-- **[Graph Neural Net Comparison Toolkit](https://github.com/Ashwin-Baduni/gnn-comparison-toolkit)**  
+- **[Graph Neural Net Comparison Toolkit](https://github.com/Ashwin-Baduni/enhanced-gnn-model-comparison-toolkit)**  
   *May 2025*  
   Created a toolkit for benchmarking and visualizing multiple GNN architectures, supporting standardized evaluation and plug-and-play model integration. Enabled comparative analysis across datasets with unified metrics and detailed reporting to streamline GNN research workflows.
 
-- **[AI Powered Analytics Dashboard Chatbot](https://github.com/Ashwin-Baduni/ai-analytics-dashboard-chatbot)**  
+- **[AI Powered Analytics Dashboard Chatbot](https://github.com/Ashwin-Baduni/AI-Powered_Analytics_Dashboard_Chatbot)**  
   *Jan 2025 – April 2025*  
-  Engineered an intelligent FastAPI chatbot for the [Parivahan Dashboard](https://parivahan.gov.in/parivahan/) that leverages quantized LLMs, adaptive data parsing, and real-time analytics to process natural language vehicle registration queries, deliver dynamic visualizations and statistical insights, and ensure security with CAPTCHA verification and response caching.
+  Engineered an intelligent FastAPI chatbot for the [Parivahan Dashboard](https://analytics.parivahan.gov.in/analytics/publicdashboard/vahan?lang=en) that leverages quantized LLMs, adaptive data parsing, and real-time analytics to process natural language vehicle registration queries, deliver dynamic visualizations and statistical insights, and ensure security with CAPTCHA verification and response caching.
 
-- **[Video Based Motion Amplification and Vibration Analysis](https://github.com/Ashwin-Baduni/video-motion-amplification)**  
+- **[Video Based Motion Amplification and Vibration Analysis](https://github.com/Ashwin-Baduni/Video-Based_Motion_Amplification_and_Vibration_Analysis)**  
   *Dec 2023*  
   Developed an award-winning self-supervised tool for motion magnification and vibration analysis in videos, featuring targeted ROI amplification, optical flow-based processing, and support for multiple amplification settings. Integrated FFT and time-series vibration analysis, 3D graph plotting, and heatmap visualization, leveraging motion magnification techniques for non-contact diagnostics.
 

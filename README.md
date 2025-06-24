@@ -1,7 +1,7 @@
-# 🚀 Welcome to my digital CV!  
-I'm **Ashwin Baduni** - a Computational Mathematics grad passionate about AI 🤖, data analytics 📊, and full-stack development 🌐.
+# 🚀 Welcome to my digital CV!
+I'm **Ashwin Baduni** – a Computational Mathematics grad passionate about AI 🤖, data analytics 📊, and full-stack development 🌐.
 
-
+---
 
 ## 📬 Contact
 
@@ -10,84 +10,91 @@ I'm **Ashwin Baduni** - a Computational Mathematics grad passionate about AI �
 - [🔗 LinkedIn](https://www.linkedin.com/in/ashwinbaduni/)  
 - [💻 GitHub](https://github.com/Ashwin-Baduni)
 
-
+---
 
 ## 🎓 Education
 
 **Mahindra University (MU)**  
 _B.Tech in Computational Mathematics_  
-🗓️ Oct 2021 – July 2025
+🗓️ Oct 2021 – Aug 2025
 
-
+---
 
 ## 💼 Experience
 
-**AI Software Developer** @ National Informatics Centre (NIC)  
+**AI Software Intern** @ National Informatics Centre (NIC)  
 *Jan 2025 – April 2025*  
-- 🤖 Built an AI chatbot for vehicle registration support using NLP and real-time analytics.
-- ⚡ Improved backend scalability with FastAPI & secure user access via CAPTCHA.
-- 📈 Boosted engagement with interactive data visualizations.
+- Built an AI chatbot that streamlined vehicle registration support using NLP and real-time analytics.
+- Improved backend scalability with FastAPI, ensured secure user access via CAPTCHA.
+- Boosted engagement through interactive data visualizations.
 
-**Full-Stack Developer** @ Gurugram Metropolitan Development Authority (GMDA)  
+**Full-Stack Intern** @ Gurugram Metropolitan Development Authority (GMDA)  
 *June 2022 – Aug 2022*  
-- 🎨 Revamped dashboard UI/UX using Bootstrap & JavaScript for a responsive experience.
-- 🔄 Streamlined data workflows, reducing manual input and boosting efficiency.
+- Revamped the UI/UX of GMDA’s internal dashboard using Bootstrap and JavaScript for a responsive, accessible experience.
+- Collaborated with backend teams to streamline data workflows, minimizing manual input and elevating efficiency.
 
-**Finance Representative** @ Mahindra University Student Council  
-- 💰 Managed budgeting for student initiatives, ensuring transparency and optimal resource use.
-- 📑 Implemented structured financial reporting.
-
-
+---
 
 ## 🛠️ Projects
 
+**Building a Transformer from Scratch**  
+*June 2025*  
+- Implemented a transformer model in PyTorch, replicating the "Attention Is All You Need" architecture with custom multi-head self-attention, positional encoding, and layer normalization.
+- Developed an automated pipeline for training, hyperparameter tuning, checkpointing, and real-time experiment tracking on large NLP datasets.
+
+**Graph Neural Net Comparison Toolkit**  
+*May 2025*  
+- Created a toolkit for benchmarking and visualizing multiple GNN architectures, supporting standardized evaluation and plug-and-play model integration.
+- Enabled comparative analysis across datasets with unified metrics and detailed reporting.
+
 **AI Powered Analytics Dashboard Chatbot**  
 *Jan 2025 – April 2025*  
-- 🤖 Developed an AI assistant for the Parivahan Dashboard, automating vehicle registration queries.
-- 🚀 FastAPI-based async backend with quantized LLM inference for low-latency, scalable performance.
-- 📊 Delivered interactive data visualizations & future trend projections.
-- 🔒 Integrated CAPTCHA security & RESTful APIs.
-
-**AI Integrated Human-Machine Interface for Motorcycle Safety**  
-*Feb 2024 – June 2024*  
-- 🏍️ Real-time vehicle monitoring HMI using YOLOv5, PyTorch & OpenCV.
-- 🕹️ Automated movement classification, speed estimation, and distance tracking.
-- 🚦 Enabled proactive safety insights with customizable detection thresholds.
+- Engineered an intelligent FastAPI chatbot for the Parivahan Dashboard leveraging quantized LLMs, adaptive data parsing, and real-time analytics.
+- Delivered dynamic visualizations, statistical insights, and ensured security with CAPTCHA verification and response caching.
 
 **Video Based Motion Amplification and Vibration Analysis**  
 *Dec 2023*  
-- 🎥 Self-supervised tool for motion magnification & vibration analysis.
-- 🏷️ ROI-based diagnostics using optical flow & bounding boxes.
-- 📈 Automated frequency extraction, anomaly detection, and interactive 3D plots.
+- Developed a self-supervised tool for motion magnification and vibration analysis in videos, featuring targeted ROI amplification and optical flow-based processing.
+- Integrated FFT and time-series vibration analysis, 3D graph plotting, and heatmap visualization for non-contact diagnostics.
 
-
-
-## 📜 Certifications
-
-- 🛡️ **Cybersecurity Professional Certificate**  
-  [Credential ID: DXRLYIKE4D2T](https://www.coursera.org/account/accomplishments/professional-cert/certificate/DXRLYIKE4D2T)
-- 📊 **Data Analyst Professional Certificate**  
-  [Credential ID: 9WRKVKV2DUIH](https://www.coursera.org/account/accomplishments/professional-cert/certificate/9WRKVKV2DUIH)
-- 🏦 **Enterprise Risk Management - Level 1**  
-  [Credential ID: IRMIN/L1CIM/2023/00000000000675](https://www.theirmindia.org/)
-
-
-
-## 🧠 Skills
-
-- 💻 **Programming:** C, C++, Python, Java, SQL, Rust
-- 🧬 **ML/DL & HPC:** PyTorch, CUDA, OpenCV, TensorFlow
-- 📐 **Mathematics:** PDEs, Linear Algebra, Calculus, Real/Functional Analysis
-- 🛠️ **Dev Tools:** Linux, Bootstrap, GitHub
-- 📈 **Finance:** Financial Mathematics, Technical Analysis, Stochastic Processes, Statistics
-
-
+---
 
 ## 🏆 Achievements
 
 - 🥇 **Smart India Hackathon (SIH):** Winner (2023)
 - 🥈 **Indian International Model United Nations (IIMUN):** High Commendation (2017)
 - 🥉 **Scindia School Model United Nations (SCIMUN):** Special Mention (2016)
+
+---
+
+## 📜 Certifications
+
+- 🛡️ **Google Cybersecurity Professional Certificate**  
+  [Credential ID: DXRLYIKE4D2T](https://www.coursera.org/account/accomplishments/professional-cert/certificate/DXRLYIKE4D2T)
+- 📊 **IBM Data Analyst Professional Certificate**  
+  [Credential ID: 9WRKVKV2DUIH](https://www.coursera.org/account/accomplishments/professional-cert/certificate/9WRKVKV2DUIH)
+- 🏦 **IRM Enterprise Risk Management - Level 1**  
+  [Credential ID: IRMIN/L1CIM/2023/00000000000675](https://www.theirmindia.org/)
+
+---
+
+## 🧠 Skills
+
+- **Programming Languages:** C, C++, Python, Java, SQL, Rust, JavaScript, R, HTML
+- **AI/ML & Data Science:** PyTorch, TensorFlow, OpenCV, YOLOv5, CUDA, FastAPI, NLP, Quantized LLM inference, Real-time analytics, Data visualization, Machine Learning, Deep Learning, Time-Series Analysis, FFT, Optical Flow, Data Engineering
+- **Development Tools:** Linux, Bootstrap, Git, GitHub, RESTful APIs, Asynchronous Programming, Version Control, UI/UX Design, Jira, Asana, Slack
+- **Cloud & DevOps:** AWS, Azure, Google Cloud, Cloud Computing, API Security, DevOps (CI/CD, automation, infrastructure as code)
+- **Cybersecurity:** Secure Authentication (CAPTCHA), Network Security, Quantum Computing
+
+---
+
+## 🌱 Extracurricular Activities
+
+**Finance Representative**, Mahindra University Student Council  
+Managed budgeting for student-led initiatives, ensuring strategic fund allocation, financial transparency, and optimal resource utilization. Implemented structured financial reporting.
+
+**Volunteer**, Mahindra University Maths Club  
+Organized mathematics workshops and competitions, promoted analytical thinking, and fostered a vibrant mathematical community.
 
 ---
 

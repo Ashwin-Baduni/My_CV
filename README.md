@@ -6,7 +6,8 @@ I'm **Ashwin Baduni** – a Computational Mathematics grad passionate about AI �
 ## 📬 Contact
 
 - 📞 +91-85279-16359  
-- 📧 baduniashwin@gmail.com  
+- 📧 baduniashwin@gmail.com
+- [🌐 Portfolio](https://ashwin-baduni.github.io/)  
 - [🔗 LinkedIn](https://www.linkedin.com/in/ashwinbaduni/)  
 - [💻 GitHub](https://github.com/Ashwin-Baduni)
 

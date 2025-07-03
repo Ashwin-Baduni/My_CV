@@ -38,6 +38,10 @@ _B.Tech in Computational Mathematics_
 
 ## 🛠️ Projects
 
+- **[Reinforcement Learning Algorithms](https://github.com/Ashwin-Baduni/reinforcement-learning-algorithms)**  
+  *July 2025*
+  Implemented Q-Learning, Deep Q-Network (DQN), and Actor-Critic algorithms from scratch in Python, tested on a custom GridWorld environment. Designed a modular framework with configurable hyperparameters, real-time training visualization, and reproducible experiment tracking. Developed analysis tools for comparing algorithm performance and generating training reports.
+
 - **[Building a Transformer from Scratch](https://github.com/Ashwin-Baduni/adaptive-transformer-trainer-automated)**  
   *June 2025*  
   Implemented a transformer model from scratch in PyTorch, faithfully reproducing the "Attention Is All You Need" architecture with custom multi-head self-attention, positional encoding, and layer normalization. Developed an automated pipeline for training, hyperparameter tuning, checkpointing, and real-time experiment tracking on large NLP datasets.
@@ -77,11 +81,13 @@ _B.Tech in Computational Mathematics_
 
 ## 🧠 Skills
 
-- **Programming Languages:** C, C++, Python, Java, SQL, Rust, JavaScript, R programming, HTML
-- **AI/ML and Data Science:** PyTorch, TensorFlow, OpenCV, YOLOv5, CUDA, FastAPI, NLP, Quantized LLM inference, Real-time analytics, Data visualization, Machine Learning Algorithms, Deep Learning, Time-Series Analysis, FFT, Optical Flow, Data Engineering
-- **Development Tools:** Linux, Bootstrap, Git, GitHub, RESTful APIs, Asynchronous Programming, Version Control, UI/UX Design Principles, Jira, Asana, Slack
-- **Cloud and DevOps:** AWS, Azure, Google Cloud, Cloud Computing, API Security, DevOps (CI/CD, automation, infrastructure as code)
-- **Cybersecurity:** Cybersecurity, Secure Authentication (CAPTCHA), Network Security, Quantum Computing
+- **Programming Languages:** Python (pandas, NumPy), JavaScript, C, C++, Java, SQL, R, HTML
+- **Machine Learning/AI:** Reinforcement Learning (Q-Learning, DQN, Actor-Critic), Deep Learning, Transformers, Graph Neural Networks (GCN, GAT, GraphSAGE), Computer Vision (Optical Flow, Lucas-Kanade, Eulerian Video Magnification), Natural Language Processing, Model Interpretability, Hyperparameter Optimization, Automated Training Pipelines, TensorFlow, PyTorch
+- **Data Science:** Data Visualization (Matplotlib, Seaborn), Interactive Dashboards, Real-time Analytics, Time-Series Analysis, Data Wrangling and Cleaning
+- **Tools/Frameworks:** Git, GitHub, Linux, Flask, Node.js, React, Docker, RESTful APIs, TensorBoard, Optuna, Python package management, Clear project organization (modular code, structured repositories)
+- **Cloud/DevOps:** AWS, Azure, Google Cloud, CI/CD pipelines, Cloud Computing
+- **Cybersecurity:** Network Security, Secure Authentication, Risk Management
+- **Emerging Tech:** Quantum Computing, Vibe Coding
 
 ---
 

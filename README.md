@@ -96,7 +96,7 @@ _B.Tech in Computational Mathematics_
 **Finance Representative**, Mahindra University Student Council  
 Managed end-to-end budgeting for student-led initiatives, ensuring strategic fund allocation, financial transparency, and optimal resource utilization. Also implemented structured financial reporting.
 
-**Volunteer**, Mahindra University Maths Club  
+**Member**, Mahindra University Maths Society  
 Collaborated with peers to organize mathematics workshops and competitions, promoted analytical thinking, and contributed to fostering a vibrant mathematical community on campus.
 
 ---

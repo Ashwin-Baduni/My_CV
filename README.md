@@ -38,9 +38,9 @@ _B.Tech in Computational Mathematics_
 
 ## 🛠️ Projects
 
-- **[Reinforcement Learning Algorithms](https://github.com/Ashwin-Baduni/reinforcement-learning-algorithms)**  
+- **[Obstacle Avoidance and Path Planning via Reinforcement Learning](https://github.com/Ashwin-Baduni/Obstacle-Avoidance-and-Path-Planning-via-Reinforcement-Learning)**  
   *July 2025*  
-  Implemented Q-Learning, Deep Q-Network (DQN), and Actor-Critic algorithms from scratch in Python, tested on a custom GridWorld environment. Designed a modular framework with configurable hyperparameters, real-time training visualization, and reproducible experiment tracking. Developed analysis tools for comparing algorithm performance and generating training reports.
+  Implemented a custom GridWorld environment with obstacles and developed reinforcement learning agents using Q-Learning, DQN, and Actor-Critic algorithms, including performance analysis tools for comprehensive training evaluation.
 
 - **[Building a Transformer from Scratch](https://github.com/Ashwin-Baduni/adaptive-transformer-trainer-automated)**  
   *June 2025*  
